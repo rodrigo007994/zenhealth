@@ -1,2 +1,2 @@
-# zenhealth
+# ZenHealth
 Hospital Management Software
